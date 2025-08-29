@@ -1,4 +1,4 @@
-# 📄 Smart Resume Screener (MentorBaba Internship Assignment)
+# 📄 Smart Resume Screener 
 
 🚀 **Objective:**  
 This project builds a **machine learning model** that predicts whether a resume matches a given job description (JD).  
