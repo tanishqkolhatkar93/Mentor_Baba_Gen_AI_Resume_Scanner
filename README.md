@@ -43,7 +43,7 @@ It automates resume screening using **text preprocessing + feature extraction + 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/smart-resume-screener.git
+git clone https://github.com/tanishqkolhatkar93/Mentor_Baba_Gen_AI_Resume_Scanner.git
 cd smart-resume-screener
 ```
 
