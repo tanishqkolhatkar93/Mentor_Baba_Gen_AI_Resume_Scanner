@@ -78,7 +78,6 @@ streamlit run app.py
 | *Python, ML, AWS* | *ML engineer skilled in Python & AWS* | **Match** | 0.92 |
 | *Android Kotlin* | *iOS Swift dev* | **No Match** | 0.12 |
 
-*(Attach screenshots of confusion matrix / notebook outputs here)*
 
 ![Alt text](https://github.com/tanishqkolhatkar93/Mentor_Baba_Gen_AI_Resume_Scanner/blob/main/Screenshot%202025-08-28%20131226.png)
 
