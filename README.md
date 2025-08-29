@@ -80,6 +80,8 @@ streamlit run app.py
 
 *(Attach screenshots of confusion matrix / notebook outputs here)*
 
+![Alt text](https://github.com/username/repo/assets/image.png)
+
 ---
 
 ## 🌱 Next Steps
