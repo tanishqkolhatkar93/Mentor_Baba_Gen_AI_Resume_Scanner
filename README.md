@@ -80,7 +80,7 @@ streamlit run app.py
 
 *(Attach screenshots of confusion matrix / notebook outputs here)*
 
-![Alt text](https://github.com/username/repo/assets/image.png)
+![Alt text](https://github.com/tanishqkolhatkar93/Mentor_Baba_Gen_AI_Resume_Scanner/blob/main/Screenshot%202025-08-28%20131226.png)
 
 ---
 
