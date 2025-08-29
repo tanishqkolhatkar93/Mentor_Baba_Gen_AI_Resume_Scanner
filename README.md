@@ -34,7 +34,7 @@ It automates resume screening using **text preprocessing + feature extraction + 
  ┣ 📜 app.py                    # Streamlit demo app (optional)
  ┣ 📜 requirements.txt          # Dependencies
  ┣ 📜 README.md                 # Project documentation
- ┗ 📂 data/                     # Dataset (JD + Resume + Label)
+
 ```
 
 ---
