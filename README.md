@@ -102,4 +102,4 @@ It demonstrates skills in:
 
 ## 📌 Author
 👤 **Tanishq Kolhatkar**  
-🔗 [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/tanishqkolhatkar93)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tanishq93/) • [GitHub](https://github.com/tanishqkolhatkar93)  
